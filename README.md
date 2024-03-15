@@ -1,4 +1,5 @@
 # sveltekit2-auth-failing
+
 Test of sveltekit2 auth. Fails on build
 
 ```
@@ -9,4 +10,3 @@ TypeError: Cannot read properties of undefined (reading 'length')
 node:internal/event_target:1033
   process.nextTick(() => { throw err; });
 ```
-
